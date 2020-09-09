@@ -1,0 +1,5 @@
+# Project exclude paths
+/rmi_client/target/
+/rmi_client_serializable/target/
+/rmi_server/target/
+/rmi_server_serializable/target/

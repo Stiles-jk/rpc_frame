@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="rmi_server_serializable" />
+        <module name="rmi_client" />
+        <module name="rmi_server" />
+        <module name="rmi_client_serializable" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="rmi_client" target="1.8" />
+      <module name="rmi_client_serializable" target="1.8" />
+      <module name="rmi_server" target="1.8" />
+      <module name="rmi_server_serializable" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
