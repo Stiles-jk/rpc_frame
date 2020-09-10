@@ -8,6 +8,8 @@
         <option value="$PROJECT_DIR$/rmi_server/pom.xml" />
         <option value="$PROJECT_DIR$/rmi_server_serializable/pom.xml" />
         <option value="$PROJECT_DIR$/rmi_client_serializable/pom.xml" />
+        <option value="$PROJECT_DIR$/restful_server/pom.xml" />
+        <option value="$PROJECT_DIR$/restful_client/pom.xml" />
       </list>
     </option>
   </component>

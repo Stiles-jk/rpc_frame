@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/restful_client/restful_client.iml" filepath="$PROJECT_DIR$/restful_client/restful_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/restful_server/restful_server.iml" filepath="$PROJECT_DIR$/restful_server/restful_server.iml" />
       <module fileurl="file://$PROJECT_DIR$/rmi_client/rmi_client.iml" filepath="$PROJECT_DIR$/rmi_client/rmi_client.iml" />
       <module fileurl="file://$PROJECT_DIR$/rmi_client_serializable/rmi_client_serializable.iml" filepath="$PROJECT_DIR$/rmi_client_serializable/rmi_client_serializable.iml" />
       <module fileurl="file://$PROJECT_DIR$/rmi_server/rmi_server.iml" filepath="$PROJECT_DIR$/rmi_server/rmi_server.iml" />

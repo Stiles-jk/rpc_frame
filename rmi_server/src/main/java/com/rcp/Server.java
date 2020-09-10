@@ -21,7 +21,8 @@ public class Server {
             CharArrayService charArrayService = new CharArrayServiceImpl();
             //注册远程对象
             LocateRegistry.createRegistry(8888);
-            Naming.bind("rmi://localhost:8888/service/char",charArrayService);
+            Naming.bind("rmi://localhost:8888/service/char", charArrayService);
+
         } catch (RemoteException e) {
             System.out.println("have wrong");
         } catch (MalformedURLException e) {
