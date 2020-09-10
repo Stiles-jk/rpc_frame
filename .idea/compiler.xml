@@ -10,10 +10,12 @@
         <module name="rmi_server" />
         <module name="rmi_client" />
         <module name="rmi_client_serializable" />
+        <module name="restful_client" />
         <module name="restful_server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="restful_client" target="1.8" />
       <module name="restful_rcp_client" target="1.8" />
       <module name="restful_rcp_server" target="1.8" />
       <module name="restful_server" target="1.8" />
