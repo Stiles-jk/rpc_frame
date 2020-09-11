@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/rmi_client_serializable/rmi_client_serializable.iml" filepath="$PROJECT_DIR$/rmi_client_serializable/rmi_client_serializable.iml" />
       <module fileurl="file://$PROJECT_DIR$/rmi_server/rmi_server.iml" filepath="$PROJECT_DIR$/rmi_server/rmi_server.iml" />
       <module fileurl="file://$PROJECT_DIR$/rmi_server_serializable/rmi_server_serializable.iml" filepath="$PROJECT_DIR$/rmi_server_serializable/rmi_server_serializable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot-crud-restful-webservices/springboot-crud-restful-webservices.iml" filepath="$PROJECT_DIR$/../springboot-crud-restful-webservices/springboot-crud-restful-webservices.iml" />
     </modules>
   </component>
 </project>

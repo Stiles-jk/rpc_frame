@@ -9,6 +9,7 @@
         <module name="rmi_server_serializable" />
         <module name="rmi_server" />
         <module name="rmi_client" />
+        <module name="springboot-crud-restful-webservices" />
         <module name="rmi_client_serializable" />
         <module name="restful_client" />
         <module name="restful_server" />
@@ -23,6 +24,12 @@
       <module name="rmi_client_serializable" target="1.8" />
       <module name="rmi_server" target="1.8" />
       <module name="rmi_server_serializable" target="1.8" />
+      <module name="springboot-crud-restful-webservices" target="1.8" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="springboot-crud-restful-webservices" options="-parameters" />
+    </option>
   </component>
 </project>

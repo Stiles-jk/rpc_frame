@@ -3,5 +3,6 @@
   <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$/restful_client" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/restful_server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springboot-crud-restful-webservices" charset="UTF-8" />
   </component>
 </project>
